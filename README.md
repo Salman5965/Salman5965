@@ -33,7 +33,8 @@
 # 🏆 Competitive Programming
 <p align="center">
   <img src="https://img.shields.io/badge/CodeChef-3_Star-5B4638?style=for-the-badge&logo=codechef" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LeetCode-Light.svg" width="60" />
+  <!-- FIXED LeetCode Icon -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="55" />
 </p>
 
 - ⭐ **CodeChef Max Rating: 1776** (Global Rank 109)  
@@ -66,7 +67,7 @@
 ### 🤖 SilentVoice — AI-Powered Social Platform
 - AI/NLP content generation  
 - Real-time feeds (audio/video/text)  
-- 99% API reliability, 30% faster render performance  
+- 99% API reliability & 30% faster render performance  
 🔗 https://github.com/CosmicTH0R/SilentVoice
 
 ---
@@ -77,6 +78,8 @@
 - Spring Boot + H2  
 - Kafka event-driven systems  
 - Debugging & release workflows  
+
+---
 
 ### 🖥 Hewlett Packard Enterprise — Software Engineering (Forage)
 - Java REST APIs  
@@ -97,7 +100,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/salman-id/"><img src="https://skillicons.dev/icons?i=linkedin" width="55"/></a>
   <a href="https://github.com/CosmicTH0R"><img src="https://skillicons.dev/icons?i=github" width="55"/></a>
-  <a href="https://leetcode.com/u/salman__md/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LeetCode-Light.svg" width="55"/></a>
+  <!-- FIXED LeetCode Icon -->
+  <a href="https://leetcode.com/u/salman__md/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="55"/></a>
   <a href="mailto:md.salman59765976@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="55"/></a>
   <a href="https://portfolio-salman-md.netlify.app/"><img src="https://skillicons.dev/icons?i=web" width="55"/></a>
 </p>
